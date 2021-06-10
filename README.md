@@ -1,7 +1,7 @@
-- 👋 Hi, I’m ♂ TheDolaxom ♂
-- 👀 I’m interested in ♂ gay sex UE4 ♂
-- 🌱 I’m currently learning ♂ fucking C++ ♂
-- 💞️ I’m looking to collaborate on ♂ leather project ♂
-- 📫 How to reach me ♂ anal ♂
+## Skills:
+**languages**: html, css, js, C++
 
+**frameworks**: node.js, react.js, sass
 
+## Software:
+Visual studio code, visual studio, Blender, Substance painter, Unreal engine 4 (5), Photoshop
