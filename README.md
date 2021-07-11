@@ -4,3 +4,4 @@
 
 🔪[Artstation](https://www.artstation.com/thedolaxom)
 
+🪔[Discord](https://discord.gg/ZBFaPECuFf)
