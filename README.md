@@ -9,6 +9,8 @@
 ## Все изучаемые мною языки, платформы и инструменты:
 <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/2048px-Unofficial_JavaScript_logo_2.svg.png"> <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png"> <img height="40" src="https://cdn.iconscout.com/icon/free/png-256/unreal-engine-2749375-2284765.png">
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dolaxom&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ### Где можно меня найти:
 
