@@ -15,8 +15,3 @@
 <div align="center">
 I dream of immersing myself in the development of game engines and games.<br>In addition, I want to learn hardware development skills
 </div>
-
-<br>
-<div align="center">
-dolaxom4@gmail.com
-</div>
