@@ -1,5 +1,5 @@
 <div align="center">
-  <h3Gamedev developer, Graphics/Software Engineer.<br>Moscow, Russia</h3>
+  <h3>Gamedev developer, Graphics/Software Engineer.<br>Moscow, Russia</h3>
 </div>
 
 <div align="center">
