@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  I am usually work in gamedev and C/C++ development, interested in low-level and system programming<br>Sometimes I do devops projects. Primary languages are C, C++ and C#. I'm also <br>a student of the <strong>School 21</strong> by Sberbank <i>(@merlinst)</i>
+  I am usually work in gamedev and C/C++ development, interested in low-level and system programming<br>Sometimes I do devops projects. Primary languages are C, C++ and C#. I'm also <br>a student of the <strong>School 21</strong> by Sber
 </div>
 <br>
 <br>
