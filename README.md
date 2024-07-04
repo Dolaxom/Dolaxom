@@ -1,9 +1,9 @@
 <div align="center">
-  <h3>Gamedev developer, Graphics/Software Engineer.<br>Moscow, Russia</h3>
+  <h3>Backend developer, Graphics/Software Engineer.<br>Moscow, Russia</h3>
 </div>
 
 <div align="center">
-  I am usually work in gamedev and C/C++ development, interested in low-level and system programming<br>Sometimes I do devops projects. Primary languages are C, C++ and C#. I'm also <br>a student of the <strong>School 21</strong> by Sber
+  I usually develop server applications in C++ using Boost, Dragon and Crow. My main languages are C, C++ and Go. In development, I use PostgreSQL, Docker, Conan, Redis, OpenGL/Vulkan, Qt, RAD.
 </div>
 <br>
 <br>
@@ -13,5 +13,5 @@
 
 <br>
 <div align="center">
-I dream of immersing myself in the development of game engines and games.<br>In addition, I want to learn hardware development skills
+  I'm currently working as a backend developer at a Moscow transport company
 </div>
