@@ -13,5 +13,5 @@
 
 <br>
 <div align="center">
-  I am currently working as a C++ developer at Kaspersky Lab.
+  I am currently working as a C++ developer at <strong>Kaspersky Lab</strong>.
 </div>
